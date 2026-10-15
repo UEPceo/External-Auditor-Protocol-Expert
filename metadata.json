@@ -1,0 +1,6 @@
+{
+  "name": "Aegis-Orbit: Interplanetary Protocol & ZIP Forensic Audit System",
+  "description": "Autonomous forensic-grade ZIP archive tamper diagnostic and deep semantic protocol flaw analyzer for interplanetary economic settlements, governance, and latency constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
